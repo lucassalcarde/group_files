@@ -9,6 +9,7 @@ __pycache__/
 
 # Virtualenv
 .venv/
+.venv38/
 
 # C extensions
 *.so
